@@ -1,0 +1,12 @@
+[
+    {
+        "id": "CVE-2021-12345",
+        "description": "Vulnerability related to secure transmission of cardholder data.",
+        "acceptable_severities": ["low", "medium"]
+    },
+    {
+        "id": "CVE-2021-54321",
+        "description": "Vulnerability in storage of cardholder data.",
+        "acceptable_severities": ["low"]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "VULN-001",
+        "severity": "high",
+        "description": "Example vulnerability description."
+    },
+    {
+        "id": "VULN-002",
+        "severity": "medium",
+        "description": "Another example description."
+    }
+]

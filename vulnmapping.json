@@ -1,0 +1,18 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "CVE-2023-12345",
+      "description": "Outdated SSL/TLS version detected",
+      "severity": "High",
+      "pci_requirements": ["4.1", "6.2"],
+      "recommendation": "Upgrade to a supported version of TLS (1.2 or higher)."
+    },
+    {
+      "id": "CVE-2022-67890",
+      "description": "SQL Injection vulnerability",
+      "severity": "Critical",
+      "pci_requirements": ["6.5.1", "10.6"],
+      "recommendation": "Implement input validation and parameterized queries."
+    }
+  ]
+}
